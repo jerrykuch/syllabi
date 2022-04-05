@@ -20,16 +20,18 @@ This course focuses on the process used to acquire, store and process data for d
 
 # Course Outline
 - Welcome_Intro
-- NoSQL Part 1 (38 slides) (*TODO* Add a written/conceptual assignment)
-- HBase (17 slides)  (w/ written/conceptual + exercises in Docker assignment)
-- NoSQL_What_We_Lose (2 slides)
+- NoSQL Part 1
+- HBase
+- NoSQL_What_We_Lose
 - Cassandra
-- Data Pipelines and Platforms (was old week 2)
-- Modernizing the DW (was old week 3)
-- Beyond the DW--The Lakehouse (was Chal. w/ Mod. DW in old week 4)
+- Data Pipelines and Platforms
+- Modernizing the DW
+- Beyond the DW--The Lakehouse
 - Delta Lake
-- Streaming Analytics, Unified Log Model, and Kafka (was old week 6)
-- Processing Streaming Data (was old week 7)
-- The Data Platform Serving Layer (was old week 9)
-- Production Considerations for Data Platforms (was old week 10)
-- Processing Streaming Data 2, Alternatives (was old week 8)
+- Streaming Analytics, Unified Log Model, and Kafka
+- Processing Streaming Data
+- The Data Platform Serving Layer
+- Production Considerations for Data Platforms
+- Processing Streaming Data 2, Alternatives
+
+
