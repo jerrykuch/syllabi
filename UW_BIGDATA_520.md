@@ -18,7 +18,7 @@ This course focuses on the process used to acquire, store and process data for d
 - Design and build a complete end-to-end data pipeline to support a realistic business case
 
 
-# Course Outline
+# Course Outline (TODO flesh out some details on each of these things)
 - Welcome_Intro
 - NoSQL Part 1
 - HBase
