@@ -12,7 +12,14 @@
 
 ## Course Outline
 
- **TODO** _Flesh out some details on each of these things_
+- Welcome and Logistics
+- Designing a Data Lake
+- Data Ingestion and Persistence in Practice
+- Transformation and Cleansing Part 1
+- Transformation and Cleaning Part 2
+- Building the "Gold Layer"
+- Orchestration and Automation
+- Looking Back
+- Overview and Conclusion
 
-- Welcome_Intro
-- . . .
+
