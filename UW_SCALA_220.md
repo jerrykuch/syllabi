@@ -1,6 +1,7 @@
 # SCALA 220: Reactive and Concurrent Programming in Akka
 
 # Introduction, Road Map and Setup
+
     - Course logistics
     - Why concurrency matters more as Moore's Law taps out
     - Amdahl's Law
