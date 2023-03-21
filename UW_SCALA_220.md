@@ -2,16 +2,16 @@
 
 # Introduction, Road Map and Setup
 
-    - Course logistics
-    - Why concurrency matters more as Moore's Law taps out
-    - Amdahl's Law
-    - The challenges of traditional "threads and locks" based
+   - Course logistics
+   - Why concurrency matters more as Moore's Law taps out
+   - Amdahl's Law
+   - The challenges of traditional "threads and locks" based
       concurrency
-      - Race conditions, livelock and deadlock
-    - Concurrent programming and I/O
-    - Distributed Systems and Their Discontents
-    - Why Build Distributed Systems?
-    - The Fallacies of Distributed Computing
+     - Race conditions, livelock and deadlock
+     - Concurrent programming and I/O
+   - Distributed Systems and Their Discontents
+      - Why Build Distributed Systems?
+      - The Fallacies of Distributed Computing
     - Reactive Programming
     - Actors and the Message Passing Approach
 
