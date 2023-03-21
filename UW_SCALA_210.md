@@ -1,4 +1,4 @@
-# Syllabus
+# SCALA 210: Introduction to Functional Programming in Scala Syllabus
 
 ## Welcome, Logistics and Introduction
 
