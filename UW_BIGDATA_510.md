@@ -1,5 +1,7 @@
 # BIGDATA 510: INTRODUCTION TO DATA ENGINEERING
 
+[UW PCE Course Page](https://bit.ly/3FAh6zg)
+
 In this course, you'll get an introduction to the fundamental building
 blocks of big data engineering. You'll learn the foundational concepts
 of distributed computing, distributed data processing, data management

@@ -1,5 +1,7 @@
 # BIGDATA 520: BUILDING THE DATA PIPELINE
 
+[UW PCE Course Page](https://bit.ly/3YVYa4K)
+
 This course focuses on the process used to acquire, store and process
 data for downstream analysis. You'll analyze and compare available
 technologies in order to make informed decisions as data
