@@ -18,12 +18,15 @@ following week.
 
 - Welcome and Logistics
 - Designing a Data Lake
+- Building the "Bronze Layer"
 - Data Ingestion and Persistence in Practice
 - Transformation and Cleansing Part 1
+- Building the "Silver Layer"
 - Transformation and Cleaning Part 2
 - Building the "Gold Layer"
 - Orchestration and Automation
 - Looking Back
 - Overview and Conclusion
+- Where to Go Next
 
 
