@@ -1,6 +1,6 @@
 # BIGDATA 530: DATA ENGINEERING CAPSTONE
 
-[UW PCE Course Page](https://bit.ly/3LtvT2o)
+[UW PCE Course Page](https://bit.ly/40fGHGx)
 
 530 brings together the material of its predecessor courses 510 and
 520 and builds upon them, introducing some new material while allowing
