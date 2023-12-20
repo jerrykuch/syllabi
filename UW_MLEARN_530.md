@@ -1,4 +1,4 @@
-# MLEARN 530: Deep Learing
+# MLEARN 530: Deep Learning
 
 [UW PCE Course Page](https://www.pce.uw.edu/courses/deep-learning)
 
