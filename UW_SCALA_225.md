@@ -4,7 +4,7 @@
     - Student Presentation Requirement
     - Course Outline, Logistics, Environment
 
-# Building Web Apps in the Scala Ecosystem
+# Building Apps in the Scala Ecosystem
 
 - Akka HTTP: client-side and server-side HTTP stacks
 - Akka HTTP's relationships to Akka actors and Akka Stream
