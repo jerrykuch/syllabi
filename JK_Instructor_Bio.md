@@ -11,4 +11,4 @@ He has taught part time at UW PCE since 2016, offering courses on:
    - data engineering, big data and distributed systems
    - data science, machine learning and deep learning
 
-He is a recipient of a UW Instructional Excellence Award.
+He is a recipient of a 2016 UW Instructional Excellence Award.
