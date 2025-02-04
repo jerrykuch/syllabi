@@ -1,11 +1,14 @@
+# Jerry Kuch, Principal Software Engineer
 
-# Old Text
+Jerry Kuch has worked in environments including startups, academic institutions, research labs, and large, global companies, including Microsoft, EMC and VMware, as both a full-time employee and a consultant.
 
-Jerry Kuch has worked in large companies, including Microsoft, EMC and VMware, small startups and as a consultant. 
-His work has included projects in computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, messaging-based middleware, big data and cloud computing. 
-He came to Scala by way of implementing functional programming languages on a Java virtual machine and to Akka by way of academic exposure to Hewitt's actors and use of their realization in Erlang. 
-An instructor for UW Professional & Continuing Education's Certificate in Big Data Technologies, Kuch was awarded an Instructional Excellence Award in 2022. 
+His past professional work has touched upon computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, message-based middleware, big data, cloud computing, data science and machine learning.
 
-# New Text
+He has taught part time at UW PCE since 2016, offering courses on:
 
-__TODO__ Update this! 
+   - the Scala programming language and functional programming
+   - concurrent and distributed programming
+   - data engineering, big data and distributed systems
+   - data science, machine learning and deep learning
+
+He is a recipient of a UW Instructional Excellence Award.
