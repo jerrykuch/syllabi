@@ -1,1 +1,11 @@
-Jerry Kuch has worked in large companies, including Microsoft, EMC and VMware, small startups and as a consultant. His work has included projects in computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, messaging-based middleware, big data and cloud computing. He came to Scala by way of implementing functional programming languages on a Java virtual machine and to Akka by way of academic exposure to Hewitt's actors and use of their realization in Erlang. An instructor for UW Professional & Continuing Education's Certificate in Big Data Technologies, Kuch was awarded an Instructional Excellence Award in 2022.
+
+# Old Text
+
+Jerry Kuch has worked in large companies, including Microsoft, EMC and VMware, small startups and as a consultant. 
+His work has included projects in computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, messaging-based middleware, big data and cloud computing. 
+He came to Scala by way of implementing functional programming languages on a Java virtual machine and to Akka by way of academic exposure to Hewitt's actors and use of their realization in Erlang. 
+An instructor for UW Professional & Continuing Education's Certificate in Big Data Technologies, Kuch was awarded an Instructional Excellence Award in 2022. 
+
+# New Text
+
+__TODO__ Update this! 
