@@ -15,7 +15,7 @@ times, including:
 the above, as well as other entirely different topics not currently
 shown here.
 
-I will occasionally do courses or trainings, on demand, for
+I occasionally do courses or trainings, on demand, for
 individuals, companies or institutions.  Feel free to contact me if
 you have such a need.
 
