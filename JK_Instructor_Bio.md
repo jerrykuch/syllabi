@@ -1,8 +1,8 @@
 # Jerry Kuch, Principal Software Engineer
 
-Jerry Kuch has worked in environments including startups, academic institutions, research labs, and large, global companies, including Microsoft, EMC and VMware, as both a full-time employee and a consultant.
+Jerry Kuch has worked at startups, academic institutions, research labs, and large, global companies, including Microsoft, EMC and VMware, as both a full-time employee and a consultant.
 
-His past professional work has touched upon computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, message-based middleware, big data, cloud computing, data science and machine learning.
+His past work has touched upon computer security, operating systems, virtual machines, network appliances, distributed systems, high-level language implementation, mathematical and statistical computing, message-based middleware, big data, cloud computing, data science and machine learning.
 
 He has taught part time at UW PCE since 2016, offering courses on:
 
