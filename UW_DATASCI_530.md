@@ -4,9 +4,9 @@ The course is part of the UW PCE [Certificate in Data Science](https://www.pce.u
 
 The lesson topics are:
 
-- Lesson 01: Dimensionality Reduction:  PCA & Recommenders
+- Lesson 01: Dimensionality Reduction:  PCA & Recommendation Systems
 - Lesson 02: Time Series Analysis
-- Lesson 03: Intro to Supervised Learning, Naive Bayes & Decision Tree
+- Lesson 03: Intro to Supervised Learning, Naive Bayes & Decision Trees
 - Lesson 04: Supervised Learning, Ensemble Models
 - Lesson 05: Support Vector Machines
 - Lesson 06: Methods for Model Explainability
